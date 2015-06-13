@@ -1,0 +1,8 @@
+#Tropfen-Dauer/Groeße
+t1,80
+t2,80
+#Ablauf
+c1,0,1
+t1,20,1
+f1,30,1
+c1,50,0
